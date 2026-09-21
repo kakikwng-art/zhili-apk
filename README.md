@@ -1,3 +1,3 @@
 # 纸历
 
-Android 安装包：点下面 Releases，或直接下载 [zhili.apk](./zhili.apk)
+最新安装包：[v1.1 zhili.apk](https://cdn.jsdelivr.net/gh/kakikwng-art/zhili-apk@v1.1/zhili.apk)
